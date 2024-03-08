@@ -2,8 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rian-rios-lemes-72b80524a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BT6Gu%2FlGARYmgnfUI%2BmY2qw%3D%3D) 
 
-![RianRioos GitHub stats](https://github-readme-stats.vercel.app/api?username=RianRioos&show_icons=true&theme=dark)
-
 ### Tecnologias que utilizo
 
 <div style="display: inline_block"><br>
